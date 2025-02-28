@@ -1,0 +1,7 @@
+C:\Projects\PoCs\EndpointCopilot\AirportAPI\obj\Debug\net8.0\AirportAPI.csproj.AssemblyReference.cache
+C:\Projects\PoCs\EndpointCopilot\AirportAPI\obj\Debug\net8.0\AirportAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PoCs\EndpointCopilot\AirportAPI\obj\Debug\net8.0\AirportAPI.AssemblyInfoInputs.cache
+C:\Projects\PoCs\EndpointCopilot\AirportAPI\obj\Debug\net8.0\AirportAPI.AssemblyInfo.cs
+C:\Projects\PoCs\EndpointCopilot\AirportAPI\obj\Debug\net8.0\AirportAPI.csproj.CoreCompileInputs.cache
+C:\Projects\PoCs\EndpointCopilot\AirportAPI\obj\Debug\net8.0\AirportAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\PoCs\EndpointCopilot\AirportAPI\obj\Debug\net8.0\AirportAPI.MvcApplicationPartsAssemblyInfo.cache
