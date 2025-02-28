@@ -1,4 +1,4 @@
-# It is a simple .NET Core Web API for managing airports. It demonstrates basic CRUD operations using an in-memory database and includes Swagger for testing the endpoints.
+# It is a simple .NET Core Web API for managing airports. It demonstrates basic CRUD operations using an in-memory database and includes Swagger for testing the endpoints. It was created by Cursor IDE and claude-3.5-sonnet
 
 ## All Prompts Used in Project Creation
 1. Initial CRUD API Creation:
