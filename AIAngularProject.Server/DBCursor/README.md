@@ -114,8 +114,8 @@ WHERE a.iata_code = 'JFK';
 
 1. Initial schema creation prompt:
 ```
-Create a sql script for creating of table, relationship and load data 
-The story is need to support crud of countries, airports and airplane
+Create a sql script for creating of table, relationship and load a dummy data 
+It should support crud of countries, airports and airplane
 Also create a README.md as documentation
 ```
 
