@@ -1,0 +1,11 @@
+C:\Projects\TestsDemo\src\TravelManagement.Core\bin\Debug\net7.0\TravelManagement.Core.deps.json
+C:\Projects\TestsDemo\src\TravelManagement.Core\bin\Debug\net7.0\TravelManagement.Core.dll
+C:\Projects\TestsDemo\src\TravelManagement.Core\bin\Debug\net7.0\TravelManagement.Core.pdb
+C:\Projects\TestsDemo\src\TravelManagement.Core\obj\Debug\net7.0\TravelManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TestsDemo\src\TravelManagement.Core\obj\Debug\net7.0\TravelManagement.Core.AssemblyInfoInputs.cache
+C:\Projects\TestsDemo\src\TravelManagement.Core\obj\Debug\net7.0\TravelManagement.Core.AssemblyInfo.cs
+C:\Projects\TestsDemo\src\TravelManagement.Core\obj\Debug\net7.0\TravelManagement.Core.csproj.CoreCompileInputs.cache
+C:\Projects\TestsDemo\src\TravelManagement.Core\obj\Debug\net7.0\TravelManagement.Core.dll
+C:\Projects\TestsDemo\src\TravelManagement.Core\obj\Debug\net7.0\refint\TravelManagement.Core.dll
+C:\Projects\TestsDemo\src\TravelManagement.Core\obj\Debug\net7.0\TravelManagement.Core.pdb
+C:\Projects\TestsDemo\src\TravelManagement.Core\obj\Debug\net7.0\ref\TravelManagement.Core.dll

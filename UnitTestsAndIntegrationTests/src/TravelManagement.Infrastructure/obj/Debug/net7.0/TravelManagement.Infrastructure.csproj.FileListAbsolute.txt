@@ -1,0 +1,15 @@
+C:\Projects\TestsDemo\src\TravelManagement.Infrastructure\bin\Debug\net7.0\TravelManagement.Infrastructure.deps.json
+C:\Projects\TestsDemo\src\TravelManagement.Infrastructure\bin\Debug\net7.0\TravelManagement.Infrastructure.dll
+C:\Projects\TestsDemo\src\TravelManagement.Infrastructure\bin\Debug\net7.0\TravelManagement.Infrastructure.pdb
+C:\Projects\TestsDemo\src\TravelManagement.Infrastructure\bin\Debug\net7.0\TravelManagement.Core.dll
+C:\Projects\TestsDemo\src\TravelManagement.Infrastructure\bin\Debug\net7.0\TravelManagement.Core.pdb
+C:\Projects\TestsDemo\src\TravelManagement.Infrastructure\obj\Debug\net7.0\TravelManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\TestsDemo\src\TravelManagement.Infrastructure\obj\Debug\net7.0\TravelManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TestsDemo\src\TravelManagement.Infrastructure\obj\Debug\net7.0\TravelManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\TestsDemo\src\TravelManagement.Infrastructure\obj\Debug\net7.0\TravelManagement.Infrastructure.AssemblyInfo.cs
+C:\Projects\TestsDemo\src\TravelManagement.Infrastructure\obj\Debug\net7.0\TravelManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\TestsDemo\src\TravelManagement.Infrastructure\obj\Debug\net7.0\TravelMa.D8E46047.Up2Date
+C:\Projects\TestsDemo\src\TravelManagement.Infrastructure\obj\Debug\net7.0\TravelManagement.Infrastructure.dll
+C:\Projects\TestsDemo\src\TravelManagement.Infrastructure\obj\Debug\net7.0\refint\TravelManagement.Infrastructure.dll
+C:\Projects\TestsDemo\src\TravelManagement.Infrastructure\obj\Debug\net7.0\TravelManagement.Infrastructure.pdb
+C:\Projects\TestsDemo\src\TravelManagement.Infrastructure\obj\Debug\net7.0\ref\TravelManagement.Infrastructure.dll
