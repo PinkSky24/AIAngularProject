@@ -17,7 +17,6 @@ Detailed documentation in a README.md file.
 Detailed Requirements:
 
 Endpoints:
-
 Airport Endpoint:
 Create, Read, Update, Delete operations for airport data.
 Client Endpoint:
